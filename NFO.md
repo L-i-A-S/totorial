@@ -17,3 +17,6 @@ MediaInfo va vous générer le NFO dans l'encart en dessous :
 
 
 Conservez l'onglet avec le nfo prêt à être copié.  
+
+Dans le cas des séries, 
+Il est dans les habitudes, règles implicites, de ne mettre que le NFO du premier épisode.
