@@ -8,19 +8,19 @@
 
 ## Definition
 
-- Doublon : La release est déjà présente sur le site. Cela veut dire que votre fichier qui a été release par la team ABC, avec les codecs audio/vidéo, qualité, résolution, poids, taille etc ne peut pas déjà être présent.
-- NFO : MediaInfo fournit des informations techniques et les tags à propos de vos fichiers video et audio : https://mediaarea.net/MediaInfoOnline
-- TMDB : Annuaire des films / séries : https://www.themoviedb.org
-- BBCode : BBCode est un langage de balisage léger inventé pour simplifier la mise en forme des messages sur les forums de discussion internet. https://fr.wikipedia.org/wiki/BBCode
+- Doublon : La release est déjà présente sur le site. Cela veut dire que votre fichier qui a été release par la team ABC, avec les codecs audio/vidéo, qualité, résolution, poids, taille etc ne peut pas déjà être présent.  
+- NFO : MediaInfo fournit des informations techniques et les tags à propos de vos fichiers video et audio : https://mediaarea.net/MediaInfoOnline  
+- TMDB : Annuaire des films / séries : https://www.themoviedb.org  
+- BBCode : BBCode est un langage de balisage léger inventé pour simplifier la mise en forme des messages sur les forums de discussion internet. https://fr.wikipedia.org/wiki/BBCode  
 
 ## Préparation
 
 ### Vérification du doublon
 
-Merci de rechercher votre fichier sur <url_T9>/search
-N'hésitez pas à ne mettre que le nom "officiel" de la série, en FR ou/puis en EN
-N'hésitez pas à ajouter le tag de votre qualité (1080p, 2160p,...) pour filtrer les résultats
-N'hésitez pas à faire la recherche via l'outil de recherche assistée TMDB
+Merci de rechercher votre fichier sur <url_T9>/search  
+N'hésitez pas à ne mettre que le nom "officiel" de la série, en FR ou/puis en EN  
+N'hésitez pas à ajouter le tag de votre qualité (1080p, 2160p,...) pour filtrer les résultats  
+N'hésitez pas à faire la recherche via l'outil de recherche assistée TMDB  
 
 Pour mon exemple, je vais uploader le film Thunderstruck (2012)  
 https://www.themoviedb.org/movie/119738-thunderstruck 
