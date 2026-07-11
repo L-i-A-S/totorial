@@ -52,7 +52,7 @@ Rendez-vous sur "Uploader un torrent" <url_T9>/upload
 
 L'upload sur T9 se fait en 6 étapes si on passe par le mode "automatique" présent sur plusieurs catégories dont les films et les séries.  
 
-Voir [Uploader un fichier vidéo (film, série, ...)[video_file.md)
+Voir [Uploader un fichier vidéo (film, série, ...)](video_file.md)
 
 ### Rendre disponible votre upload
 
