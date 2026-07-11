@@ -22,7 +22,8 @@ N'hésitez pas à ne mettre que le nom "officiel" de la série, en FR ou/puis en
 N'hésitez pas à ajouter le tag de votre qualité (1080p, 2160p,...) pour filtrer les résultats
 N'hésitez pas à faire la recherche via l'outil de recherche assistée TMDB
 
-Pour mon exemple, je vais uploader le film Thunderstruck (2012) ( https://www.themoviedb.org/movie/119738-thunderstruck )  
+Pour mon exemple, je vais uploader le film Thunderstruck (2012)  
+https://www.themoviedb.org/movie/119738-thunderstruck 
 
 <img width="1400" height="879" alt="image" src="https://github.com/user-attachments/assets/885ffae6-410c-4dc1-9971-2d015fa63ec4" />
 
@@ -40,15 +41,22 @@ Rendez-vous dans votre logiciel de torrent préféré.
 Pour la démonstration, j'utiliserai qBittorrent avec une interface Web.
 
 <img width="656" height="1111" alt="image" src="https://github.com/user-attachments/assets/7b68b795-3d9c-449d-895c-19d03a9aa164" />
+  
 <img width="473" height="142" alt="image" src="https://github.com/user-attachments/assets/205d3b58-9fb1-440a-88c1-162f2d89bace" />
-Clic droit
-<img width="306" height="97" alt="image" src="https://github.com/user-attachments/assets/b029f5d8-fbe0-4fce-a990-d470eb3fe885" />
-Nommez et enregistrez le fichier où vous le souhaitez 
+  
+Clic droit  
+  
+<img width="306" height="97" alt="image" src="https://github.com/user-attachments/assets/b029f5d8-fbe0-4fce-a990-d470eb3fe885" />  
+  
+Nommez et enregistrez le fichier où vous le souhaitez   
+  
 <img width="585" height="30" alt="image" src="https://github.com/user-attachments/assets/f0b0763b-022b-4877-af72-e732afcefceb" />
-<img width="875" height="58" alt="image" src="https://github.com/user-attachments/assets/eef028f3-1bf1-4595-9a45-977718e5de3d" />
-
+   
+<img width="875" height="58" alt="image" src="https://github.com/user-attachments/assets/eef028f3-1bf1-4595-9a45-977718e5de3d" />  
+  
+  
 ### Récupération ou Création du nfo
-
+  
 Pour la création du NFO, T9 recommande l'utilisation des NFO de Media Info en Anglais et en TXT  
 Pour cela, j'utilise personnellement la version en ligne, mais vous pouvez aussi télécharger la version à installer  
 Rendez-vous sur https://mediaarea.net/MediaInfoOnline  
@@ -64,6 +72,7 @@ MediaInfo va vous générer le NFO dans l'encart en dessous :
 
 <img width="967" height="564" alt="image" src="https://github.com/user-attachments/assets/fd52a306-2bf6-4993-ab43-0cf16ee9dd81" />
 
+
 Conservez l'onglet avec le nfo prêt à être copié.  
 
 ### Uploader sur T9
@@ -75,6 +84,7 @@ Rendez-vous sur "Uploader un torrent" <url_T9>/upload
 L'upload sur T9 se fait en 6 étapes si on passe par le mode "automatique" présent sur plusieurs catégories dont les films et les séries.  
 
 #### Etape 1
+
 Dans mon cas, j'upload dans la catégorie des films et sous catégorie des films  
 
 <img width="893" height="752" alt="image" src="https://github.com/user-attachments/assets/11ba0cb6-0e52-4a93-a4e2-7d8875d8a915" />
@@ -148,7 +158,7 @@ Les TAGS
 <img width="250" height="82" alt="image" src="https://github.com/user-attachments/assets/47d4b312-3c3b-4f1f-a369-e560cde3be68" />
 
 Un certain nombre de tags sont colorisés pour mettre en évidence certaines infos   
-Exemple : 
+Exemple :  
 <img width="156" height="475" alt="image" src="https://github.com/user-attachments/assets/118e537f-0aa4-4703-9fb0-452f5b585aaa" />
 
 Vous pouvez ajouter comme tag, le(s) genre(s), le numéro de saison, d'épisodes, si c'est une série intégrale ou non, ... Informations utiles pour une meilleure recherche.  
