@@ -2,36 +2,35 @@
 
 ## Prerequis 
 
-- Lire les règles présentes sur la page des règles <url_T9>/rules
-- Avoir un fichier qui n'existe pas sur le tracker. Les doublons sont interdits.
-- Avoir un fichier qui respecte les règles (voir lien plus haut)
+- Lire les règles présentes sur la page des règles <url_T9>/rules ;
+- Avoir un fichier qui n'existe pas sur le tracker. Les doublons sont interdits ;
+- Avoir un fichier qui respecte les règles (voir lien plus haut).
 
 ## Definition
 
 - Doublon : La release est déjà présente sur le site. Cela veut dire que votre fichier qui a été release par la team ABC, avec les codecs audio/vidéo, qualité, résolution, poids, taille etc ne peut pas déjà être présent.  
-- NFO : MediaInfo fournit des informations techniques et les tags à propos de vos fichiers video et audio : https://mediaarea.net/MediaInfoOnline  
-- TMDB : Annuaire des films / séries : https://www.themoviedb.org  
-- BBCode : BBCode est un langage de balisage léger inventé pour simplifier la mise en forme des messages sur les forums de discussion internet. https://fr.wikipedia.org/wiki/BBCode  
+- NFO : MediaInfo fournit des informations techniques et les tags à propos de vos fichiers video et audio : https://mediaarea.net/MediaInfoOnline .  
+- TMDB : Annuaire des films / séries : https://www.themoviedb.org .  
+- BBCode : BBCode est un langage de balisage léger inventé pour simplifier la mise en forme des messages sur les forums de discussion internet. https://fr.wikipedia.org/wiki/BBCode .  
 
 ## Préparation
 
 ### Vérification du doublon
 
-Merci de rechercher votre fichier sur <url_T9>/search  
-N'hésitez pas à ne mettre que le nom "officiel" de la série, en FR ou/puis en EN  
-N'hésitez pas à ajouter le tag de votre qualité (1080p, 2160p,...) pour filtrer les résultats  
-N'hésitez pas à faire la recherche via l'outil de recherche assistée TMDB  
+Merci de rechercher votre fichier sur <url_T9>/search :  
+- N'hésitez pas à ne mettre que le nom "officiel" de la série, en FR ou/puis en EN ;  
+- N'hésitez pas à ajouter le tag de votre qualité (1080p, 2160p,...) pour filtrer les résultats ;  
+- N'hésitez pas à faire la recherche via l'outil de recherche assistée TMDB.  
 
-Pour mon exemple, je vais uploader le film Thunderstruck (2012)  
-https://www.themoviedb.org/movie/119738-thunderstruck 
+Pour mon exemple, je vais uploader le film Thunderstruck (2012) (https://www.themoviedb.org/movie/119738-thunderstruck).  
 
 <img width="1400" height="879" alt="image" src="https://github.com/user-attachments/assets/885ffae6-410c-4dc1-9971-2d015fa63ec4" />
 
 Je n'ai pas besoin d'affiner plus la recherche car je n'ai pas beaucoup de résultats.  
 Mais il ne faut pas hésiter à utiliser les différents filtres pour ajuster au maximum la recherche.  
 Les filtres que je recommande sont :  
-- Recherche dans : Titre  
-- Catégorie / Sous Catégorie : Ce qui vous concerne  
+- Recherche dans : Titre ;  
+- Catégorie / Sous Catégorie : Ce qui vous concerne ;  
 - Tag : Résolution (1080p, 2160p, ...), Numéro de saison, ...  
 
 
@@ -56,9 +55,9 @@ Voir [Uploader un fichier vidéo (film, série, ...)](video_file.md)
 
 ### Rendre disponible votre upload
 
-Dernière étape à votre main,  
-Il vous faut ajouter votre torrent dans votre logiciel préféré de torrent  
-Comme d'hab, exemple sur qBittorent  
+Dernière étape,  
+Il vous faut ajouter votre torrent dans votre logiciel préféré de torrent.   
+Exemple sur qBittorent :  
 
 <img width="950" height="547" alt="image" src="https://github.com/user-attachments/assets/2900968a-61e4-4db7-85e7-3ce6db255179" />
 
@@ -67,3 +66,5 @@ Comme d'hab, exemple sur qBittorent
 <img width="1011" height="27" alt="image" src="https://github.com/user-attachments/assets/6daac8f3-ecf2-4019-9f37-8130f0d0d8b8" />
 
 <img width="979" height="21" alt="image" src="https://github.com/user-attachments/assets/7be06dd9-644a-4bcf-85b8-735dbf8f4eb7" />
+
+Ensuite, c'est à la Team Pending ou au bot de valider votre upload.
