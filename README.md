@@ -1,4 +1,4 @@
-<img width="898" height="685" alt="image" src="https://github.com/user-attachments/assets/b07462da-ec45-4085-a849-7ad6b1cb939a" /># Comment uploader sur T9
+# Comment uploader sur T9
 
 ## Prerequis 
 
