@@ -60,7 +60,8 @@ Dernière étape,
 Il vous faut ajouter votre torrent dans votre logiciel préféré de torrent.   
 Exemple sur qBittorent :  
 
-<img width="950" height="547" alt="image" src="https://github.com/user-attachments/assets/2900968a-61e4-4db7-85e7-3ce6db255179" />
+<img width="842" height="538" alt="image" src="https://github.com/user-attachments/assets/d3bb5199-226e-473a-983b-8d2a235e0155" />
+
 
 <img width="982" height="907" alt="image" src="https://github.com/user-attachments/assets/0d3b92e6-0902-4be7-b2ec-38a1f3c6eea5" />
 
