@@ -33,6 +33,7 @@ Les filtres que je recommande sont :
 - Catégorie / Sous Catégorie : Ce qui vous concerne ;  
 - Tag : Résolution (1080p, 2160p, ...), Numéro de saison, ...  
 
+Voir [Exemple de recherche de doublon](doublon.md)
 
 ### Création du .torrent
 
