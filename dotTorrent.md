@@ -12,6 +12,9 @@
 Rendez-vous dans votre logiciel de torrent préféré.  
 Pour la démonstration, j'utiliserai qBittorrent avec une interface Web.
 
+ℹ️ Sur T9, il n'est pas utile de renseigner l'url d'annonce avec votre passkey dans le .torrent que vous générez car ce n'est pas sur celui-ci que vous allez seeder mais sur celui-ci que T9 va vous rendre en retour.
+
+
 <img width="656" height="1111" alt="image" src="https://github.com/user-attachments/assets/7b68b795-3d9c-449d-895c-19d03a9aa164" />
   
 <img width="473" height="142" alt="image" src="https://github.com/user-attachments/assets/205d3b58-9fb1-440a-88c1-162f2d89bace" />
