@@ -3,10 +3,10 @@
 - [Prérequis](uploader_sur_t9.md#prérequis)
 - [Définition](uploader_sur_t9.md#définition)
 - [Préparation](uploader_sur_t9.md#préparation)
-  - [Vérification du doublon](#vérification-du-doublon) → [Guide détaillé](doublon.md)
-  - [Création du .torrent](#création-du-torrent) → [Guide détaillé](dotTorrent.md)
-  - [Création du NFO](#création-du-nfo) → [Guide détaillé](NFO.md)
-- [Uploader sur T9](#uploader-sur-t9) → [Guide détaillé](video_file.md)
+  - [Vérification du doublon](doublon.md)
+  - [Création du .torrent](dotTorrent.md)
+  - [Création du NFO](NFO.md)
+- [Uploader sur T9](uploader_sur_t9.md#uploader-sur-t9) → [Guide détaillé](video_file.md)
 - [Rendre disponible votre upload](uploader_sur_t9.md#rendre-disponible-votre-upload)
 
   
