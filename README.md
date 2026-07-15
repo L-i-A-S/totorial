@@ -1,5 +1,14 @@
 # Comment uploader sur T9
 
+## 📚 Sommaire
+
+- 🏠 [Comment uploader sur T9](README.md)
+- 🔍 [Exemple de recherche de doublon](doublon.md)
+- 🧲 [Création du .torrent](dotTorrent.md)
+- 📝 [Création du NFO](NFO.md)
+- 🎬 [Uploader sur T9](README.md#uploader-sur-t9)
+- 🎬 [ou directement Uploader un fichier vidéo (film, série, ...)](video_file.md)
+
 ## Prerequis 
 
 - Lire les règles présentes sur la page des règles <url_T9>/rules ;
