@@ -92,3 +92,4 @@ La balise "Mettre en seed pour passer la TP" devrait disparaitre sous 5 à 10min
 
 <img width="1088" height="263" alt="image" src="https://github.com/user-attachments/assets/194712f0-fecb-4e1e-94b8-a942dee30608" />
 
+Une fois la balise disparue, votre upload sera traité dans le cas général entre 10min et 36h. Ne pas oublier qu'il y a aussi des humains derrière qui traitent, pas que le bot, et donc il peut aussi y avoir des congés.
