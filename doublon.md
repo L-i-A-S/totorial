@@ -37,3 +37,7 @@ D'après mon Windows, ma saison fait 100Go.
 
 Il n'y a pas de fichier correspondant à Dr House faisant 100Go.
 Je ne suis normalement pas en doublon. 
+
+Je fais également la 2eme recherche sur <url_T9>/Sharewood 
+
+<img width="1403" height="250" alt="image" src="https://github.com/user-attachments/assets/0499ec56-3174-4d20-b821-f1f7d19e9a14" />
