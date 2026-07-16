@@ -15,7 +15,7 @@
 ## Prerequis 
 
 - Lire les règles présentes sur la page des règles <url_T9>/rules ;
-- Lire les règles présentes sur la page de la foire aux questions <url_T9>/faq ;
+- Lire les questions/réponses présentes sur la page de la foire aux questions <url_T9>/faq ;
 - Avoir un fichier qui n'existe pas sur le tracker. Les doublons sont interdits ;
 - Avoir un fichier qui respecte les règles (voir lien plus haut).
 
