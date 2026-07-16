@@ -87,3 +87,6 @@ Ensuite, c'est à la Team Pending ou au bot de valider votre upload.
 <img width="1092" height="279" alt="image" src="https://github.com/user-attachments/assets/ab3698e4-1ba1-42d3-a6d0-e92db1e8bbe9" />
 
 La balise "Mettre en seed pour passer la TP" devrait disparaitre sous 5 à 10min (normalement grand max) si vous avez correctement mis en seed votre fichier sur qbittorrent. 
+
+<img width="1088" height="263" alt="image" src="https://github.com/user-attachments/assets/194712f0-fecb-4e1e-94b8-a942dee30608" />
+
