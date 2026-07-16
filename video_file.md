@@ -46,7 +46,7 @@ Collez dans la zone de texte
 
 #### Etape 5 
 Recherche sur TMDB de votre film/série  
-Il est important de retirer les tags qui peuvent subsiter et de conserver que le nom du film  
+Il est important de retirer les tags qui peuvent subsister et de conserver que le nom du film  
 
 <img width="800" height="471" alt="image" src="https://github.com/user-attachments/assets/c5b77a06-45ee-4a82-a113-f49c8afb1884" />
 
