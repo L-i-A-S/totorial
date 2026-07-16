@@ -71,7 +71,7 @@ Voir [Uploader un fichier vidéo (film, série, ...)](video_file.md)
 
 Dernière étape,  
 Il vous faut ajouter votre torrent dans votre logiciel préféré de torrent.   
-Exemple sur qBittorent :  
+Exemple sur qBittorrent :  
 
 <img width="842" height="538" alt="image" src="https://github.com/user-attachments/assets/d3bb5199-226e-473a-983b-8d2a235e0155" />
 
@@ -83,3 +83,7 @@ Exemple sur qBittorent :
 <img width="979" height="21" alt="image" src="https://github.com/user-attachments/assets/7be06dd9-644a-4bcf-85b8-735dbf8f4eb7" />
 
 Ensuite, c'est à la Team Pending ou au bot de valider votre upload.
+
+<img width="1092" height="279" alt="image" src="https://github.com/user-attachments/assets/ab3698e4-1ba1-42d3-a6d0-e92db1e8bbe9" />
+
+La balise "Mettre en seed pour passer la TP" devrait disparaitre sous 5 à 10min (normalement grand max) si vous avez correctement mis en seed votre fichier sur qbittorrent. 
