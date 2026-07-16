@@ -33,7 +33,9 @@
 Merci de rechercher votre fichier sur <url_T9>/search :  
 - N'hésitez pas à ne mettre que le nom "officiel" de la série, en FR ou/puis en EN ;  
 - N'hésitez pas à ajouter le tag de votre qualité (1080p, 2160p,...) pour filtrer les résultats ;  
-- N'hésitez pas à faire la recherche via l'outil de recherche assistée TMDB.  
+- N'hésitez pas à faire la recherche via l'outil de recherche assistée TMDB.
+
+Mais également de rechercher sur <url_T9>/sharewood
 
 Pour mon exemple, je vais uploader le film Thunderstruck (2012) (https://www.themoviedb.org/movie/119738-thunderstruck).  
 
