@@ -95,4 +95,7 @@ censured
 -  Nous savons qu'ils n'avaient pas d'API, nous uploadeons uniquement via API, elle sera migrée aussi?  
 Y a une API en test, juste que ça prends du retard depuis plusieurs semaines à cause de l'annonce
 
+- est-il prévu des refontes UI/UX dans T4 2.0 ?  
+oui, la navigation laissait à désiré, j'a déjà fais une maj sur ça plus tôt dans la journée
+
 - 
