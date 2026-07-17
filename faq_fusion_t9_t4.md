@@ -76,3 +76,9 @@ et si tout est conforme , une IA fait une première verif,
 si tout est ok, ça te le valide direct
 Si y a un soucis, la TP prends le relais pour une deuxième verif et t'envoie un message de correction
 
+- Est-ce que les membres Uploader sur Torr9 auront aussi le statut sur Tr4Ker ou devrons-nous recommencer de 0 ?  
+il y a des badges, des rôles et des titres sur Tr4ker, si vous avez un rôle spécifique ici, vous l'aurez là bas
+
+- t4 est privé (lsd, pex, dht désactivé)
+un sondage à été fait pour savoir si les torrents de migrations devraient être distribués sur le réseau DHT, a la grande surprise du staff, ça à finit sur un 50/50. et ont décidé de les laisser privés.
+
