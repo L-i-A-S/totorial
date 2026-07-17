@@ -1,3 +1,5 @@
+Copy Pasta
+
 - Fusion des comptes ? (mails différents, pseudos différents)    
 ceux qui ont un pseudo/émail déjà pris recevront une page un peu différente lors de la première connexion. Si pas d'override : pseudo, mail, mdp ratios, tokens, pdp,... sera repris  
 
@@ -17,7 +19,7 @@ Oui j'en ai besoin moi aussi
 Il y a déjà un système de request assez poussé, j'ai pas vu dans le détail comment il fonctionnait mais ça avait l'air bien, dans le doute, envoie un MP
 
 - Rends l’argent... ,   
-je viens de payer 1 mois de Torr9, ya plus d'argent
+je viens de payer 1 mois de T9, ya plus d'argent
 
 - comment on fait les bébés ?   
 on mets une graine dans la maman et papa pousse avec sa bite.
@@ -38,11 +40,11 @@ je fais les torrents en dernier, c'est le plus simple à faire, y a encore le te
 - Est-ce que vous êtes sûrs que Tr4ker peut supporter la charge de la fusion ?    
 Je suppose que ça va avoir un réel impact sur leur infra : c'est réfléchi; j'ai moi même bossé sur leur infra pour nous accueillir. les gens derrière le site sont des boss
 
-- l'adresse de Torr9 pointera vers les serveur de tr4ker ?   
+- l'adresse de T9 pointera vers les serveur de tr4ker ?   
 vous n'aurez rien à faire sur votre client bittorrent
 
 -  date de la bdd utilisé ?   
-elle est pas encore backup. Torr9 sera en maintenance à un moment donné (surement dans la nuit du samedi) pour faire la save à grande echelle
+elle est pas encore backup. T9 sera en maintenance à un moment donné (surement dans la nuit du samedi) pour faire la save à grande echelle
 
 - estce que les themes seront modifiables ? theme clair ou noir ^^ ( pique les yeux le theme clair )   
 Oui* il y a un selecteur en haut à droite (sorry je dois répondre)
