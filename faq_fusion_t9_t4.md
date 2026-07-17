@@ -84,3 +84,6 @@ un sondage à été fait pour savoir si les torrents de migrations devraient êt
 
 - et quand on s'est fait chasser des modos, on perd aussi le droit de le devenir là bas ?  
 pour l'instant le rôle "modo" n'existe pas là bas, il y a que des admins.
+
+- c'est quoi l'url de tr4cker du coup..?  
+https://<censured>
