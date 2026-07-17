@@ -100,3 +100,8 @@ oui, la navigation laissait à désiré, j'a déjà fais une maj sur ça plus t�
 
 - et les sharewood ? ça va devenir quoi ?  
 rien ne change, ils seront aussi transférés
+
+-  tu fermes le serveurs dans combien de temps ? pour un transfert total? stp ?
+Dans la nuit du samedi à dimanche
+
+
