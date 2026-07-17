@@ -67,7 +67,12 @@ tu garde le plus positif
 - le traker ou en va et plus petit pk se n'est pas lui qui vient a nous  
 c'est une bonne question : Faut se poser la question du "pourquoi il est petit"; puis voir "Peut on se projetter avec eux" et enfin "Quel est son avenir"
 
-- Est-ce que Tr4Ker les teams de release de musique seront reconnu à leur juste valeur comme Team officielle ?  
+- Est-ce que T4 les teams de release de musique seront reconnu à leur juste valeur comme Team officielle ?  
 Dis toi qu'"il y a une page exclue dédiée aux musiques....
 
-- 
+- Le système d'upload sur T4
+les uploads prennent 2 secondes
+et si tout est conforme , une IA fait une première verif,
+si tout est ok, ça te le valide direct
+Si y a un soucis, la TP prends le relais pour une deuxième verif et t'envoie un message de correction
+
