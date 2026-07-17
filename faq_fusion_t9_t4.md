@@ -63,3 +63,11 @@ l'équipe bosse sur une page wiki détaillant les points importants
 
 - Tu as dis qu'il y allait avoir une page de connexion différente. Mais comment ça se passe pour nos stats ? On va avoir celle de Torr9 ou celle de Tr4Ker ? Ou deux comptes ?
 tu garde le plus positif
+
+- le traker ou en va et plus petit pk se n'est pas lui qui vient a nous  
+c'est une bonne question : Faut se poser la question du "pourquoi il est petit"; puis voir "Peut on se projetter avec eux" et enfin "Quel est son avenir"
+
+- Est-ce que Tr4Ker les teams de release de musique seront reconnu à leur juste valeur comme Team officielle ?  
+Dis toi qu'"il y a une page exclue dédiée aux musiques....
+
+- 
