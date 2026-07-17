@@ -86,4 +86,4 @@ un sondage à été fait pour savoir si les torrents de migrations devraient êt
 pour l'instant le rôle "modo" n'existe pas là bas, il y a que des admins.
 
 - c'est quoi l'url de tr4cker du coup..?  
-https://censured
+censured
