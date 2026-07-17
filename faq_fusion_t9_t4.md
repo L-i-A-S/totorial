@@ -57,3 +57,6 @@ Que tu les dépense maintenant ou pas, ça change rien, tu récupère tout de fa
 
 - yaura un recap , une FAQ de tout ce vous annoncez ?  
 l'équipe bosse sur une page wiki détaillant les points importants
+
+- Tu as dis qu'il y allait avoir une page de connexion différente. Mais comment ça se passe pour nos stats ? On va avoir celle de Torr9 ou celle de Tr4Ker ? Ou deux comptes ?
+tu garde le plus positif
