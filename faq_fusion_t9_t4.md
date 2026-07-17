@@ -52,8 +52,8 @@ Oui* il y a un selecteur en haut à droite (sorry je dois répondre)
 - Ca fait un moment qu'on a pas eu de pool freeleech d'aillers, non ?   
 Tu vas en avoir du FL t'inquète pas
 
-- Qu'en est-il des tokens ? Mieux vaut tous les dépenser en achat de ratio avant la fusion ou seront ils migrés ?   
+- Qu'en est-il des tokens ? Mieux vaut tous les dépenser en achat de ratio avant la fusion ou seront ils migrés ?    
 Que tu les dépense maintenant ou pas, ça change rien, tu récupère tout de façon équivalente
 
-- yaura un recap , une FAQ de tout ce vous annoncez ?
+- yaura un recap , une FAQ de tout ce vous annoncez ?  
 l'équipe bosse sur une page wiki détaillant les points importants
