@@ -82,3 +82,5 @@ il y a des badges, des rôles et des titres sur Tr4ker, si vous avez un rôle sp
 - t4 est privé (lsd, pex, dht désactivé)
 un sondage à été fait pour savoir si les torrents de migrations devraient être distribués sur le réseau DHT, a la grande surprise du staff, ça à finit sur un 50/50. et ont décidé de les laisser privés.
 
+- et quand on s'est fait chasser des modos, on perd aussi le droit de le devenir là bas ?  
+pour l'instant le rôle "modo" n'existe pas là bas, il y a que des admins.
