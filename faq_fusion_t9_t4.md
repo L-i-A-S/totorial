@@ -98,4 +98,5 @@ Y a une API en test, juste que ça prends du retard depuis plusieurs semaines à
 - est-il prévu des refontes UI/UX dans T4 2.0 ?  
 oui, la navigation laissait à désiré, j'a déjà fais une maj sur ça plus tôt dans la journée
 
-- 
+- et les sharewood ? ça va devenir quoi ?  
+rien ne change, ils seront aussi transférés
