@@ -1,5 +1,8 @@
 Copy Pasta
 
+- Si après la fusion il y a un point qui vous tracasse
+Vous ouvrez un ticket, on fera du cas par cas. Le but étant que tout le monde reparte sur de bonnes bases positives
+
 - Fusion des comptes ? (mails différents, pseudos différents)    
 ceux qui ont un pseudo/émail déjà pris recevront une page un peu différente lors de la première connexion. Si pas d'override : pseudo, mail, mdp ratios, tokens, pdp,... sera repris  
 
