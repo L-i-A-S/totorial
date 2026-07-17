@@ -87,3 +87,8 @@ pour l'instant le rôle "modo" n'existe pas là bas, il y a que des admins.
 
 - c'est quoi l'url de tr4cker du coup..?  
 censured
+
+-  Nous savons qu'ils n'avaient pas d'API, nous uploadeons uniquement via API, elle sera migrée aussi?  
+Y a une API en test, juste que ça prends du retard depuis plusieurs semaines à cause de l'annonce
+
+- 
