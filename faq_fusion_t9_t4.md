@@ -31,7 +31,7 @@ je viens de payer 1 mois de T9, ya plus d'argent
 - comment on fait les bébés ?   
 on mets une graine dans la maman et papa pousse avec sa bite.
 
-- Question , c'est moi qui ne sasi pas m'y prendre ou le site de Tr4ker est en maintenance et on ne peut pas s'y connecter donc encore moins s'y enregistrer ?   
+- Question , c'est moi qui ne sasi pas m'y prendre ou le site de T4 est en maintenance et on ne peut pas s'y connecter donc encore moins s'y enregistrer ?   
 c'est normal . on a mis en pause les inscriptions le temps de rendre actif la fusion. (pour justement éviter que vous fassiez des comptes)
 
 - Un système prévu pour fusionner les comptes de ceux qui en ont déjà un sur tr4ker (pseudo et mail different) ?   
@@ -44,7 +44,7 @@ Si il est positif : oui; sinon , tu repars avec un ratio à 1
 - A partir de quand devient-il inutile d'upload ici ? (bloque la fonctionnalité).   
 je fais les torrents en dernier, c'est le plus simple à faire, y a encore le temps
 
-- Est-ce que vous êtes sûrs que Tr4ker peut supporter la charge de la fusion ?    
+- Est-ce que vous êtes sûrs que T4 peut supporter la charge de la fusion ?    
 Je suppose que ça va avoir un réel impact sur leur infra : c'est réfléchi; j'ai moi même bossé sur leur infra pour nous accueillir. les gens derrière le site sont des boss
 
 - l'adresse de T9 pointera vers les serveur de tr4ker ?   
@@ -65,7 +65,7 @@ Que tu les dépense maintenant ou pas, ça change rien, tu récupère tout de fa
 - yaura un recap , une FAQ de tout ce vous annoncez ?  
 l'équipe bosse sur une page wiki détaillant les points importants
 
-- Tu as dis qu'il y allait avoir une page de connexion différente. Mais comment ça se passe pour nos stats ? On va avoir celle de Torr9 ou celle de Tr4Ker ? Ou deux comptes ?
+- Tu as dis qu'il y allait avoir une page de connexion différente. Mais comment ça se passe pour nos stats ? On va avoir celle de T9 ou celle de T4 ? Ou deux comptes ?
 tu garde le plus positif
 
 - le traker ou en va et plus petit pk se n'est pas lui qui vient a nous  
@@ -80,8 +80,8 @@ et si tout est conforme , une IA fait une première verif,
 si tout est ok, ça te le valide direct
 Si y a un soucis, la TP prends le relais pour une deuxième verif et t'envoie un message de correction
 
-- Est-ce que les membres Uploader sur Torr9 auront aussi le statut sur Tr4Ker ou devrons-nous recommencer de 0 ?  
-il y a des badges, des rôles et des titres sur Tr4ker, si vous avez un rôle spécifique ici, vous l'aurez là bas
+- Est-ce que les membres Uploader sur T9 auront aussi le statut sur T4 ou devrons-nous recommencer de 0 ?  
+il y a des badges, des rôles et des titres sur T4, si vous avez un rôle spécifique ici, vous l'aurez là bas
 
 - t4 est privé (lsd, pex, dht désactivé)
 un sondage à été fait pour savoir si les torrents de migrations devraient être distribués sur le réseau DHT, a la grande surprise du staff, ça à finit sur un 50/50. et ont décidé de les laisser privés.
