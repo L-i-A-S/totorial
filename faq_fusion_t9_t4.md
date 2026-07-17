@@ -1,3 +1,7 @@
+Pastebin : 
+<img width="946" height="709" alt="image" src="https://github.com/user-attachments/assets/0d8af1d4-325c-48c5-99bc-bbe6b0f764d1" />
+
+
 Copy Pasta
 
 - Si après la fusion il y a un point qui vous tracasse  
