@@ -1,11 +1,17 @@
 Pastebin : 
 <img width="946" height="709" alt="image" src="https://github.com/user-attachments/assets/0d8af1d4-325c-48c5-99bc-bbe6b0f764d1" />
 
+# Lisez moi avant de poser des questions
 
 Copy Pasta
 
 - Si après la fusion il y a un point qui vous tracasse  
 Vous ouvrez un ticket, on fera du cas par cas. Le but étant que tout le monde reparte sur de bonnes bases positives
+
+
+- en gros " lisez moi, avant de poser des questions " .... c'est possible de rajouter ça ?
+Bien sûr ! 
+
 
 - Fusion des comptes ? (mails différents, pseudos différents)    
 ceux qui ont un pseudo/émail déjà pris recevront une page un peu différente lors de la première connexion. Si pas d'override : pseudo, mail, mdp ratios, tokens, pdp,... sera repris  
