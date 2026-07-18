@@ -273,13 +273,13 @@ Bien sûr !
 - Fusion des comptes ? (mails différents, pseudos différents)    
 ceux qui ont un pseudo/émail déjà pris recevront une page un peu différente lors de la première connexion. Si pas d'override : pseudo, mail, mdp ratios, tokens, pdp,... sera repris  
 
-- Freeleech côté Tr4ker ? tjrs d'actualité ?    
+- Freeleech côté T4 ? tjrs d'actualité ?    
 Oui  
 
-- Est-ce que les anciens bans vont être transférés vers tr4ker ? Qu'en est-il des personnes bannies ici pour des bonnes raisons et mais qui sont sur Tr4Ker ?   
+- Est-ce que les anciens bans vont être transférés vers T4 ? Qu'en est-il des personnes bannies ici pour des bonnes raisons et mais qui sont sur T4 ?   
 2nd chance
 
--  Est-ce qu'il y a pour projet de rework le chat de Tr4Ker ?   
+-  Est-ce qu'il y a pour projet de rework le chat de T4 ?   
 Pas à l'instant T mais je vais ajouter les chats après la fusion, les images, gifs sont déjà dispo
 
 -  Est-ce qu'on va récuperer nos poti chats ?   
@@ -297,7 +297,7 @@ on mets une graine dans la maman et papa pousse avec sa bite.
 - Question , c'est moi qui ne sasi pas m'y prendre ou le site de T4 est en maintenance et on ne peut pas s'y connecter donc encore moins s'y enregistrer ?   
 c'est normal . on a mis en pause les inscriptions le temps de rendre actif la fusion. (pour justement éviter que vous fassiez des comptes)
 
-- Un système prévu pour fusionner les comptes de ceux qui en ont déjà un sur tr4ker (pseudo et mail different) ?   
+- Un système prévu pour fusionner les comptes de ceux qui en ont déjà un sur T4 (pseudo et mail different) ?   
 Non
 ouvre un ticket sur le site (quand il sera dispo)
 
@@ -310,7 +310,7 @@ je fais les torrents en dernier, c'est le plus simple à faire, y a encore le te
 - Est-ce que vous êtes sûrs que T4 peut supporter la charge de la fusion ?    
 Je suppose que ça va avoir un réel impact sur leur infra : c'est réfléchi; j'ai moi même bossé sur leur infra pour nous accueillir. les gens derrière le site sont des boss
 
-- l'adresse de T9 pointera vers les serveur de tr4ker ?   
+- l'adresse de T9 pointera vers les serveur de T4 ?   
 vous n'aurez rien à faire sur votre client bittorrent
 
 -  date de la bdd utilisé ?   
