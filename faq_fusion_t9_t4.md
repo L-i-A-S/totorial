@@ -3,6 +3,263 @@ Pastebin :
 
 # Lisez moi avant de poser des questions
 
+# FAQ – Fusion avec T4
+
+> **Avant de poser une question, merci de lire cette FAQ.**
+>
+> La plupart des réponses aux interrogations les plus fréquentes s'y trouvent déjà.
+> Si malgré tout un point reste flou après la fusion, ouvrez un ticket : chaque situation particulière sera étudiée au cas par cas. L'objectif est que tout le monde reparte sur de bonnes bases.
+
+---
+
+# Comptes et migration
+
+### Comment se passe la fusion des comptes ?
+
+Si votre compte ne présente aucun conflit (pseudo ou e-mail déjà utilisé sur T4), toutes vos données seront automatiquement reprises :
+
+- Pseudo
+- Adresse e-mail
+- Mot de passe
+- Ratio
+- Tokens
+- Avatar
+- Et les autres informations de votre profil
+
+En cas de conflit (pseudo ou e-mail déjà existant), une procédure spécifique vous sera proposée lors de votre première connexion.
+
+---
+
+### J'ai déjà un compte sur T4 avec un pseudo ou une adresse e-mail différente. Que faire ?
+
+Dans ce cas, il faudra ouvrir un ticket une fois le site disponible afin que votre situation soit traitée manuellement.
+
+---
+
+### Les inscriptions sur T4 sont-elles fermées ?
+
+Oui.
+
+Les inscriptions sont temporairement suspendues afin de préparer la fusion et d'éviter la création de nouveaux comptes qui compliqueraient la migration.
+
+---
+
+### Les comptes bannis seront-ils transférés ?
+
+Les anciens bannissements ne seront pas repris.
+
+Chacun repart avec une seconde chance.
+
+---
+
+# Ratio, tokens et statistiques
+
+### Mon ratio sera-t-il conservé ?
+
+Oui, si votre ratio est supérieur ou égal à 1.
+
+Si votre ratio est inférieur à 1, vous repartirez avec un ratio de **1**.
+
+---
+
+### J'ai un compte sur T9 et un autre sur T4. Quel ratio sera conservé ?
+
+Le meilleur des deux ratios sera retenu.
+
+---
+
+### Les tokens seront-ils transférés ?
+
+Oui.
+
+Que vous les utilisiez avant la fusion ou non, vous récupérerez leur équivalent après la migration.
+
+---
+
+### Les Sharewood seront-ils transférés ?
+
+Oui.
+
+Ils seront également migrés.
+
+---
+
+# Torrents et Freeleech
+
+### Jusqu'à quand est-il utile d'uploader sur T9 ?
+
+Les torrents seront migrés en dernier.
+
+Vous pouvez donc continuer à uploader normalement jusqu'à l'annonce de la fermeture.
+
+---
+
+### Le Freeleech sera-t-il conservé ?
+
+Oui.
+
+Et d'autres événements Freeleech sont également prévus après la fusion.
+
+---
+
+# Fonctionnement de T4
+
+### Le site pourra-t-il supporter l'arrivée de tous les membres ?
+
+Oui.
+
+L'infrastructure a été préparée pour absorber cette montée en charge. Des optimisations ont été réalisées spécialement en vue de la fusion.
+
+---
+
+### Faudra-t-il modifier les paramètres de mon client BitTorrent ?
+
+Non.
+
+L'adresse actuelle pointera automatiquement vers la nouvelle infrastructure. Aucune manipulation ne sera nécessaire de votre côté.
+
+---
+
+### À quelle date sera effectuée la sauvegarde des données ?
+
+La base de données sera sauvegardée durant la maintenance prévue dans la nuit de **samedi à dimanche**.
+
+---
+
+### Les torrents resteront-ils privés ?
+
+Oui.
+
+Un sondage avait été organisé concernant l'activation du DHT pour les torrents migrés. Les résultats étant très partagés, il a finalement été décidé de conserver des torrents privés (DHT, PEX et LSD désactivés).
+
+---
+
+# Fonctionnalités
+
+### Les thèmes seront-ils personnalisables ?
+
+Oui.
+
+Un sélecteur de thème (clair/sombre) est disponible en haut à droite du site.
+
+---
+
+### Le chat sera-t-il amélioré ?
+
+Pas immédiatement.
+
+En revanche, les salons de discussion seront progressivement ajoutés après la fusion. Les images et GIF sont déjà pris en charge.
+
+---
+
+### Les "petits chats" seront-ils conservés ?
+
+Oui.
+
+---
+
+### Le système de Requests sera-t-il amélioré ?
+
+T4 dispose déjà d'un système de Requests relativement complet.
+
+Si vous avez des suggestions d'amélioration, n'hésitez pas à les envoyer par message privé.
+
+---
+
+### Une API est-elle prévue ?
+
+Oui.
+
+Une API est actuellement en cours de développement. Son déploiement a simplement pris du retard en raison des préparatifs de la fusion.
+
+---
+
+### Une refonte de l'interface est-elle prévue ?
+
+Oui.
+
+Des améliorations UI/UX sont déjà en cours afin de rendre la navigation plus fluide et plus agréable.
+
+---
+
+# Upload et rôles
+
+### Comment fonctionne l'upload sur T4 ?
+
+L'upload est très rapide.
+
+Une première vérification automatique est effectuée. Si tout est conforme, le torrent est validé immédiatement.
+
+En cas de problème, l'équipe prend le relais et vous indique précisément les corrections à apporter.
+
+---
+
+### Les Uploaders conserveront-ils leur statut ?
+
+Oui.
+
+Les rôles, badges et titres seront adaptés afin que les contributeurs conservent leur reconnaissance sur T4.
+
+---
+
+### Les équipes de Release Musique seront-elles reconnues ?
+
+Oui.
+
+Une section entièrement dédiée à la musique est prévue.
+
+---
+
+### Les anciens modérateurs retrouveront-ils leur rôle ?
+
+À ce jour, T4 ne possède pas de rôle **Modérateur**.
+
+Seuls des administrateurs sont présents.
+
+---
+
+# Questions diverses
+
+### Pourquoi rejoindre un tracker plus petit ?
+
+La taille d'un tracker n'est pas le seul critère.
+
+Le plus important est sa capacité à évoluer, ses perspectives d'avenir et la qualité du projet porté par son équipe.
+
+---
+
+### Une FAQ récapitulative sera-t-elle disponible ?
+
+Oui.
+
+Une page Wiki est en cours de rédaction afin de centraliser toutes les informations importantes liées à la fusion.
+
+---
+
+### Quelle est l'adresse de T4 ?
+
+Elle sera communiquée officiellement par les canaux habituels.
+
+---
+
+### Quand T9 sera-t-il définitivement fermé ?
+
+La bascule finale est prévue dans la nuit de **samedi à dimanche**.
+
+---
+
+# Besoin d'aide ?
+
+Si, après avoir lu cette FAQ et une fois la fusion effectuée, vous rencontrez un problème particulier, **ouvrez un ticket**.
+
+Chaque situation sera étudiée individuellement afin que la transition se déroule dans les meilleures conditions pour tous.
+
+
+-------------------------------------------------------
+Contenu original
+-------------------------------------------------------
+
+
 Copy Pasta
 
 - Si après la fusion il y a un point qui vous tracasse  
