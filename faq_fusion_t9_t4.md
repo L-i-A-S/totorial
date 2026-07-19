@@ -170,7 +170,9 @@ Si vous avez des suggestions d'amélioration, n'hésitez pas à les envoyer par 
 
 Oui.
 
-Une API est actuellement en cours de développement. Son déploiement a simplement pris du retard en raison des préparatifs de la fusion.
+T4 propose déjà une **API compatible avec Prowlarr**, entièrement fonctionnelle et utilisable dès aujourd'hui.
+
+En parallèle, une **API dédiée à l'upload** est également en cours de développement. Son déploiement a pris un peu de retard en raison des préparatifs liés à la fusion, mais elle arrivera prochainement.
 
 ---
 
