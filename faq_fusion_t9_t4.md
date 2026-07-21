@@ -32,7 +32,11 @@ En cas de conflit (pseudo ou e-mail déjà existant), une procédure spécifique
 
 ### J'ai déjà un compte sur T4 avec un pseudo ou une adresse e-mail différente. Que faire ?
 
-Dans ce cas, il faudra ouvrir un ticket une fois le site disponible afin que votre situation soit traitée manuellement.
+*Dans ce cas, il faudra ouvrir un ticket une fois le site disponible afin que votre situation soit traitée manuellement.* - Update ;
+
+Ouvrir la page " Paramètres " dans le menu principal ( ou /settings dans l'url ), en dessous de la section " passkey " vous y trouverez l'outil de fusion de comptes. 
+Il vous suffit d'y entrer les informations requises, et d'attendre qu'un admin l'approuve. 
+
 
 ---
 
@@ -86,7 +90,7 @@ Ils seront également migrés.
 
 # Torrents et Freeleech
 
-### Jusqu'à quand est-il utile d'uploader sur T9 ?
+### Jusqu'à quand est-il utile d'uploader sur T9 ? ( update : C'est désormais fermé, il n'est plus possible d'uploader sur t9. )
 
 Les torrents seront migrés en dernier.
 
