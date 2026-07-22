@@ -11,6 +11,25 @@ Pastebin :
 > Si malgré tout un point reste flou après la fusion, ouvrez un ticket : chaque situation particulière sera étudiée au cas par cas. L'objectif est que tout le monde reparte sur de bonnes bases.
 
 ---
+Dernière mise à jour
+
+### Tu n'avais PAS de compte sur T4 (ou pas le même pseudo) :  
+Ton compte T9 a été copié à l'identique sur T4. Tu peux te connecter avec ton pseudo et tes identifiants habituels de T9.
+
+
+### Tu avais un compte sur T4 ET sur T9 (pseudo identique):
+
+Tu disposes maintenant de deux comptes distincts : TONPSEUDO → ton compte T4 d'origine, inchangé TONPSEUDO_t9 → une copie de ton compte T9, avec toutes tes infos de T9 (ratio, historique, etc.)
+
+### Fusionner : 
+Pour les faire fusionner, aller dans les paramètres du compte sur T4 <= url_T4/settings
+-------------------
+Tout ceux qui sont OK, déconnectez d'ici, laissez la place à ceux qui ont des problèmes, merci :cat:
+Le site : url_T4
+Le Wiki : url_T4/wiki
+La shout et les tickets : url_T4/communication
+
+---
 
 # Comptes et migration
 
