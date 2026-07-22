@@ -22,9 +22,9 @@ Ton compte T9 a été copié à l'identique sur T4. Tu peux te connecter avec to
 Tu disposes maintenant de deux comptes distincts : TONPSEUDO → ton compte T4 d'origine, inchangé TONPSEUDO_t9 → une copie de ton compte T9, avec toutes tes infos de T9 (ratio, historique, etc.)
 
 ### Fusionner : 
-Pour les faire fusionner, aller dans les paramètres du compte sur T4 <= url_T4/settings
--------------------
-Tout ceux qui sont OK, déconnectez d'ici, laissez la place à ceux qui ont des problèmes, merci :cat:
+Pour les faire fusionner
+aller dans les paramètres du compte sur T4 <= url_T4/settings
+
 Le site : url_T4
 Le Wiki : url_T4/wiki
 La shout et les tickets : url_T4/communication
